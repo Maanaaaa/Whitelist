@@ -1,7 +1,8 @@
 {
     "man_04ka9": {
-        "Nametag": "Mana",
         "Chattag": "[Developer]",
-        "Color": "#6df76f"
+        "Color": "#6df76f",
+        "Nametag": "Mana",
+        "Rank" = "Developer"
     }
 }
