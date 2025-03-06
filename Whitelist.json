@@ -1,10 +1,18 @@
 {
-    "man_04ka9": {
+    "man_04ka0": {
         "Chattag": "[Developer]",
         "Color": "#6df76f",
         "Nametag": "Mana",
         "Whitelisted": "true",
         "Developer": "true",
         "UserId": 7235860888
+    },
+    "adrianszcksmydzxk": {
+        "Chattag": "[Developer]",
+        "Color": "#6df76f",
+        "Nametag": "Wowzers",
+        "Whitelisted": "true",
+        "Developer": "true",
+        "UserId": 3721174509
     }
 }
